@@ -41,7 +41,7 @@ export default function Home() {
         </div>
       </Framer>
       <div className="pt-[30px] md:pt-[70px] relative">
-        <Framer>
+        <Framer className={"z-30 relative"}>
           <div className="flex relative z-20 flex-col md:flex-row gap-[10px]">
             <div className="w-full md:w-[25%] background background1">
               <div className="label">01</div>

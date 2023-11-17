@@ -15,7 +15,7 @@ export function Framer({
   return (
     <section
       style={{containerStyle} }
-      className={`overflow-hidden h-full min-h-fit ${className}`}
+      className={`overflow-hidden  h-full  min-h-fit ${className}`}
       ref={ref}
     >
       <motion.div
