@@ -40,7 +40,7 @@ export default function Home() {
           </h3>
         </div>
       </Framer>
-      <div className="pt-[70px] relative">
+      <div className="pt-[30px] md:pt-[70px] relative">
         <Framer>
           <div className="flex relative z-20 flex-col md:flex-row gap-[10px]">
             <div className="w-full md:w-[25%] background background1">
